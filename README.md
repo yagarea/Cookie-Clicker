@@ -2,7 +2,8 @@ Documentation
 ===============
 
 ##INFO:
-Project Arduino Cookie Clicker inspirated by Cookie Clicker by Odashnet. ( http://orteil.dashnet.org/cookieclicker/ )
+Project Arduino Cookie Clicker inspirated by Cookie Clicker by Odashnet. 
+( http://orteil.dashnet.org/cookieclicker/ )
 
 
 ##ABOUT:
